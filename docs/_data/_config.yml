@@ -22,7 +22,7 @@ email: hedges7@purdue.edu
 description: >-
   This book covers the Detector Control System (DCS) for the Mu2e experiment
 baseurl:             # the subpath of your site, e.g. /blog. If there is no subpath for your site, use an empty string ""
-url: mhedges.github.io    # the base hostname & protocol for your site, e.g. http://example.com
+url: mu2e.github.io    # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #######################################################################################
@@ -36,7 +36,7 @@ show_sidebar: true                # Show the sidebar. Only set to false if your 
 collapse_inactive_chapters: true  # Whether to collapse the inactive chapters in the sidebar
 collapse_inactive_sections: true  # Whether to collapse the sub-sections within a non-active section in the sidebar
 textbook_logo: img/mu2e_logo_oval.png                      # A logo to be displayed at the top of your textbook sidebar. Should be square
-textbook_logo_link: https://mhedges.github.io/dcs # A link for the logo.
+textbook_logo_link: https://mu2e.github.io/dcs # A link for the logo.
 sidebar_footer_text: Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
 number_toc_chapters: false         # Whether to add numbers to chapters in your Table of Contents. If true, you can control this at the Chapter level in _data/toc.yml
 
@@ -66,8 +66,8 @@ jupyterhub_interact_text: Interact           # The text that interact buttons wi
 use_binder_button: false                  # If 'true', add a binder button for interactive links
 binderhub_url: https://mybinder.org      # The URL for your BinderHub. If no URL, use ""
 binder_repo_base: https://github.com/    # The site on which the textbook repository is hosted
-binder_repo_org: mhedges                # The username or organization that owns this repository
-binder_repo_name: extmon_slowcon              # The name of the repository on the web
+binder_repo_org: mu2e                # The username or organization that owns this repository
+binder_repo_name: dcs              # The name of the repository on the web
 binder_repo_branch: gh-pages             # The branch on which your textbook is hosted.
 binderhub_interact_text: Interact        # The text that interact buttons will contain.
 
