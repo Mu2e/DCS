@@ -16,6 +16,6 @@
 # - header: My Header  # Will insert a header with no link in the sidebar
 
 
-- header: "Welcome!"
+- header: "Home"
 - url: /welcome
   title: Welcome to the Mu2e DCS!
